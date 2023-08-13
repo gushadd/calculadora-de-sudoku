@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora de Sudoku\bin\Debug\net7.0\Calculadora de Sudoku.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora de Sudoku\bin\Debug\net7.0\Calculadora de Sudoku.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora de Sudoku\bin\Debug\net7.0\Calculadora de Sudoku.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora de Sudoku\bin\Debug\net7.0\Calculadora de Sudoku.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora de Sudoku\bin\Debug\net7.0\Calculadora de Sudoku.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora de Sudoku\obj\Debug\net7.0\Calculadora de Sudoku.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora de Sudoku\obj\Debug\net7.0\Calculadora de Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora de Sudoku\obj\Debug\net7.0\Calculadora de Sudoku.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora de Sudoku\obj\Debug\net7.0\Calculadora de Sudoku.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora de Sudoku\obj\Debug\net7.0\Calculadora de Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora de Sudoku\obj\Debug\net7.0\Calculadora de Sudoku.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora de Sudoku\obj\Debug\net7.0\refint\Calculadora de Sudoku.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora de Sudoku\obj\Debug\net7.0\Calculadora de Sudoku.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora de Sudoku\obj\Debug\net7.0\Calculadora de Sudoku.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Calculadora de Sudoku\obj\Debug\net7.0\ref\Calculadora de Sudoku.dll
